@@ -1,2 +1,2 @@
 # esqueleto
-es
+un esqueleto de un compa
